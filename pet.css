@@ -1,0 +1,13 @@
+.bg-color {
+  background-color: #e3aae2;
+  height: 100vh;
+  border-radius: 40px;
+}
+
+.heading {
+  font-family: Roboto;
+  font-size: 40px;
+  text-align: center;
+  color: #4f3c4f;
+  font-weight: 700;
+}
